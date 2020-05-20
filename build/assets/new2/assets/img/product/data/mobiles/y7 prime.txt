@@ -1,0 +1,8 @@
+s8 description
+price:Rs. 24,495
+Rs. 25,999-6%
+Brand Warranty
+720 x 1440 pixels HD+, 18:9 ratio (~269 ppi density)
+Qualcomm Snapdragon 430 Octa-core 1.4 GHz Cortex-A53
+Rear Camera: Dual: 13 MP + 2 MP, phase detection autofocus, LED flash
+Memory: 3GB of RAM

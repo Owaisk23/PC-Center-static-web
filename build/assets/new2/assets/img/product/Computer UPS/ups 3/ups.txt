@@ -1,0 +1,9 @@
+Title : INTEX 1050VA UPS
+
+Des : Display : LED Indicator
+      Output voltage range : 200-255+/-5Vac
+      Transfer time : ?10ms
+      Charging period : 10-16 hours
+      
+	
+Price : 13,999

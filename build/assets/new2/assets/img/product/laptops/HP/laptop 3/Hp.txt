@@ -1,0 +1,11 @@
+Title : HP 15-BS112TX I5-8250U, 4GB, 1TB, 15.6"HD LED, 2GB AMD 520 DEDICATED
+
+Des: HP Notebook - 15-bs112tx
+     Intel® Core™ i5-8250U (1.6 GHz base frequency, up to 3.4 GHz with Intel® Turbo Boost Technology, 6 MB cache, 4 cores)
+     4 GB DDR4-2400 SDRAM (1 x 4 GB)
+     AMD Radeon™ 520 Graphics (2 GB DDR3 dedicated)
+
+
+
+
+Price : 71500

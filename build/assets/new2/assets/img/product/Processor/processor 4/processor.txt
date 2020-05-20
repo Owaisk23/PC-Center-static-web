@@ -1,0 +1,9 @@
+Title : Intel Core i7-8700 Processor, Coffee Lake, 8th Gen
+
+Des : 6 Cores / 12 Threads
+      3.2 GHz (4.6 GHz Turbo) / Cache 12 MB
+      65 W / DDR4-2666
+      Intel UHD Graphics 630
+
+
+Price :  51,500

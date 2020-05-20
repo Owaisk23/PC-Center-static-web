@@ -1,0 +1,14 @@
+Title: HP 27es 27" LED
+
+Des: Display size (diagonal)
+68.58 cm (27")
+Panel active area
+597.89 x 336.31 mm
+Display type
+IPS w/ LED backlight
+Aspect ratio
+16:9
+Native resolution
+1920 x 1080 @ 60 Hz
+
+Price: 29500

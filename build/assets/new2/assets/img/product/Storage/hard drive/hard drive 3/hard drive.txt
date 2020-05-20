@@ -1,0 +1,8 @@
+Title : Toshiba HDWL110 1TB Mobile 2.5 Inch SATA Internal Hard Drive
+
+
+Des : Capacity (1): 1TB
+      Interface: SATA 3 Gbit/s
+      Form factor (5): 2.5 inch
+
+Price : 6,500

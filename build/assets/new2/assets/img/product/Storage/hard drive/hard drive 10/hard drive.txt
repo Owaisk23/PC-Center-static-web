@@ -1,0 +1,8 @@
+Title : Seagate 2TB SkyHawk Surveillance Hard Drive
+
+Des : SATA 6Gb/s
+      64 MB Cache
+      Minimises dropped frames
+      Reduces downtime
+
+Price : 9,200

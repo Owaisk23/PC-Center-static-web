@@ -1,0 +1,42 @@
+Product details of Moto E5 Plus
+BuildOSAndroid v8.0 OreoDimensions160.9 x 75.3 x 9.4 mmWeight196 gSIMDual Sim, Dual Standby (Nano-SIM)ColorsBlack, Flash Gray, Mineral Blue, Fine GoldFrequency2G BandSIM1: GSM 850 / 900 / 1800 / 1900
+SIM2: GSM 850 / 900 / 1800 / 19003G BandHSDPA 850 / 900 / 1900 / 21004G BandLTEProcessorCPUQuad Core 1.4GHz Cortex A53
+Build	OS	Android v8.0 Oreo
+Dimensions	160.9 x 75.3 x 9.4 mm
+Weight	196 g
+SIM	Dual Sim, Dual Standby (Nano-SIM)
+Colors	Black, Flash Gray, Mineral Blue, Fine Gold
+Frequency	2G Band	SIM1: GSM 850 / 900 / 1800 / 1900
+SIM2: GSM 850 / 900 / 1800 / 1900
+3G Band	HSDPA 850 / 900 / 1900 / 2100
+4G Band	LTE
+Processor	CPU	Quad Core 1.4GHz Cortex A53
+Chipset	Qualcomm MSM8917 Snapdragon 425
+GPU	Adreno 308
+Display	Technology	IPS LCD Capacitive Touchscreen, 16M colors, Multitouch
+Size	6.0 Inches
+Resolution	720 x 1440 Pixels (~269 PPI)
+Protection	Corning Gorilla Glass (unspecified version)
+Memory	Built-in	32GB/16 Built-in, 3/2GB RAM
+Card	microSD Card, (supports upto 256GB)
+Camera	Main	12 MP, Laser Autofocus, LED Flash
+Features	f/2.0, 1.25Âµm, phase detection, Geo-tagging, touch focus, face detection, HDR, panorama, Video (1080p@30fps)
+Front	5 MP, LED Flash
+Connectivity	WLAN	Wi-Fi 802.11 b/g/n, WiFi Direct, hotspot
+Bluetooth	4.2, A2DP, LE
+GPS	Yes, with A-GPS, GLONASS, BDS
+Radio	FM Radio
+USB	microUSB v2.0, Type-C 1.0 reversible connector
+NFC	No
+Data	GPRS, Edge, 3G HSPA 42.2/5.76 Mbps, 4G LTE-A (2CA) Cat6 300/50 Mbps
+Features	Sensors	Accelerometer, Compass, Fingerprint(Rear Mounted), Gyro, Proximity
+Audio	3.5mm Audio Jack, MP4/H.263/H.264/WMV player, MP3/eAAC+/WMA/WAV player, Speaker Phone
+Browser	HTML5
+Messaging	SMS(threaded view), MMS, Email, Push Mail, IM
+Games	Built-in + Downloadable
+Torch	Yes
+Extra	Photo/video editor, Document viewer
+Battery	Capacity	5000 mAh (Li-ion, Non removable)
+Specifications of Moto E5 Plus
+Brand Motorola SKU 101056827_PK-1246507397 RAM Memory 3GB Model Moto E5 Plus
+What’s in the box	Charger,Handfree

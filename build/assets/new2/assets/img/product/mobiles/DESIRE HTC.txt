@@ -1,0 +1,53 @@
+Specifications:
+Network
+Technology 
+GSM / HSPA
+Launch
+Announced 2015, April
+Status Available. Released 2015, April
+Body
+Dimensions 146.9 x 70.9 x 8.2 mm (5.78 x 2.79 x 0.32 in)
+Weight 138 g (4.87 oz)
+SIM Dual SIM (Nano-SIM, dual stand-by)
+Display
+Type Capacitive touchscreen, 16M colors
+Size 5.0 inches (~66.2% screen-to-body ratio)
+Resolution 720 x 1280 pixels (~294 ppi pixel density)
+Multitouch Yes
+Platform
+OS Android OS, v4.4.2 (KitKat)
+Chipset Mediatek MT6592
+CPU Octa-core 1.7 GHz Cortex-A7
+GPU Mali-450MP4
+Memory 
+Card slot microSD, up to 32 GB (dedicated slot)
+Internal 8 GB, 1 GB RAM
+Camera
+Primary 13 MP, f/2.2, 28mm, autofocus, LED flash
+Features Geo-tagging, touch focus, face detection, panorama
+Video 1080p@30fps
+Secondary 5 MP, f/2.8, 34mm, 1080p
+Sound
+Alert types Vibration; MP3, WAV ringtones
+Loudspeaker Yes
+3.5mm jack Yes
+Comms
+WLAN Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot
+Bluetooth v4.0, A2DP, aptX
+GPS Yes, with A-GPS
+Radio FM radio
+USB microUSB v2.0
+Features
+Sensors Accelerometer, proximity, compass
+Messaging SMS(threaded view), MMS, Email, Push Mail, IM
+Browser HTML5
+Java No
+  - Active noise cancellation with dedicated mic
+- MP4/H.264 player
+- MP3/eAAC+/WAV player
+- Photo/video editor
+- Document viewer
+Battery
+Non-removable Li-Po 2000 mAh battery
+Stand-by Up to 521 h (2G) / Up to 458 h (3G)
+Talk time Up to 22 h 40 min (2G) / Up to 12 h 40 min (3G)

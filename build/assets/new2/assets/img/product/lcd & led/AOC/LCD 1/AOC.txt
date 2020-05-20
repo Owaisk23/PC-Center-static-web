@@ -1,0 +1,12 @@
+Title: AOC 22B1H 21.5-Inch LED
+
+Des: HD type: Full HD
+Display technology: TN
+Supported graphic formats: 1920 x 1080 (HD 1080)
+Contrast ratio (typical): 600: 1
+Viewing angle, horizontal: 90 °
+Viewing angle, vertical: 65 °
+Number of screen colors: 16.78 million colors
+
+
+Price: 16900

@@ -1,0 +1,35 @@
+price:14500
+Product details of Nokia 3 - Dual Sim - 2GB - 16GB - 5inch - 4GLTE - White
+Android OS 7.0
+Dual Sim
+4G LTE
+5inch Display
+8MP Camera
+Gorrila Glass
+OS	Android OS 7.0 (Nougat)  
+Dimensions	143.4 x 71.4 x 8.5 mm  
+Weight	N/A  
+SIM	Dual Sim (Mini-SIM)  
+Colors	Silver White, Matte Black, Tempered Blue, Copper White  
+Frequency	2G Band	SIM1: GSM 850 / 900 / 1800 / 1900
+SIM2: GSM 850 / 900 / 1800 / 1900  
+3G Band	HSDPA 850 / 900 / 1900 / 2100  
+4G Band	LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300)  
+Processor	CPU	1.4 Quad-Core Cortex-A53  
+Chipset	Mediatek MT6737  
+GPU	Mali-T720MP2  
+Display	Technology	IPS LCD capacitive touchscreen, 16M colors, Multitouch  
+Size	5.0 Inches  
+Resolution	720 x 1280 pixels (~294 PPI pixel density)  
+Protection	Corning Gorilla Galss (unspecified version)  
+Memory	Built-in	16GB built-in, 2GB RAM  
+Card	MicroSD Card (Support up to 256GB)  
+Camera	Main	8 MP, autofocus, LED flash  
+Features	f/2.0, 1.12 um pixel size, Geo-tagging, touch focus, Video  
+Front	8 MP, f/2.0, autofocus  
+Connectivity	WLAN	Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot  
+Bluetooth	v4.2 with A2DP  
+GPS	Yes + A-GPS support  
+Radio	FM radio  
+USB	microUSB v2.0, USB On-The-Go  
+NFC	Yes  

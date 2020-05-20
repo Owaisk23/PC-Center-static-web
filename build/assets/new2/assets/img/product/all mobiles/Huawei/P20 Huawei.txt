@@ -1,0 +1,9 @@
+p20 huawei description
+price:Rs. 34,999
+Rs. 36,999-5%
+Brand Warranty
+5.84 inches, 85.1 cm2 (~80.5% screen-to-body ratio)
+Dual: 16 MP (f/2.2, 1.0µm) + 2 MP, phase detection autofocus, LED flash + 16 MP (f/2.0, 1.12µm), 1080p
+Internal Storage: 64GB ROM, 4GB RAM
+EMUI 8.0 with Android 8.0 (Oreo)
+Non-removable Li-Po 3000 mAh battery

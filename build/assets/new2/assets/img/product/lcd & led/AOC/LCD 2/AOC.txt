@@ -1,0 +1,12 @@
+Title: AOC E970SWN 18.5" LED
+
+Des: HD type: Screen Size 18.5"
+Pixel Pitch 0.3mm
+Display Area 409.8 (H)×230.4 (V)mm
+Brightness 200 cd/m²
+Contrast Ratio 600:1 (Typical)
+20,000,000:1(DCR)
+Smart Response 5ms
+Viewing Angle 90/50
+
+Price: 10250

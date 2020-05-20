@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Sign in to your Visual Mart account</title>
+    <link rel="stylesheet" href="style.css">
+
+<body class="footer">
+    <div class="div">
+        <div class="div2">
+            <img src="../new2/assets/img/LOGO-with-Text-New.png" class="microsoft">
+            <h1 class="sign-in">Sign in</h1>
+            <form>
+                <input class="input" type="text" name="username" placeholder="Email, phone, or Skype" required="true"
+                    autofocus>
+                <p class="no">No account? Create One!</p>
+                <input class="next" type="submit" onclick="check(this.form)" value="Next">
+            </form>
+        </div>
+    </div>
+    <script>
+        function check(form) {
+
+            if (form.username.value == "mohsinziaee123@outlook.com") {
+                window.location = "https://signup.live.com/?wa=wsignin1.0&rpsnv=13&ct=1539020207&rver=7.0.6738.0&wp=MBI_SSL&wreply=https%3a%2f%2faccount.microsoft.com%2fauth%2fcomplete-signin%3fru%3dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index%2526refd%253Dwww.google.com.pk&id=292666&lw=1&fl=easi2&contextid=E80A8305D32B25DE&bk=1539020216&uiflavor=web&uaid=3821801c9cfb4c1eae3a6270abfec87f&mkt=EN-US&lc=1033&lic=1";
+            }
+            else {
+                alert("The username you entered doesn't belong to an account. Please check your username & password and try again.")
+            }
+        }
+    </script>
+</body>
+
+</html>

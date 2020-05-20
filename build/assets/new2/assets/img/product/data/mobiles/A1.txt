@@ -1,0 +1,10 @@
+A1 description
+price:Rs. 29,900
+Brand Warranty
+For Technical Queries, contact Product Expert @0301-8226675
+Brand Warranty (SmartLink)
+5.5" LTPS FHD Display,1920 x 1080,16:9, 403 PPI,16M Colors
+Octa-core 2.0 GHz Cortex-A53, Qualcomm MSM8953 Snapdragon 625
+4GB RAM, 64GB ROM
+Android 7.1.2 (Nougat)
+Hybrid Dual SIM (Nano-SIM, dual stand-by)

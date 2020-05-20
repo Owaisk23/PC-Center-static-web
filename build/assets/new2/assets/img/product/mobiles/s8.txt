@@ -1,0 +1,9 @@
+s8 description
+price:Rs. 79,999
+Rs. 45,000-4%
+
+5.8" Super AMOLED capacitive touchscreen, 16M colors, 1440 x 2960 pixels
+4GB RAM, 64GB ROM
+8 MP Front & 12 MP Back Camera
+Octa-core (4x2.3 GHz & 4x1.7 GHz)
+Android 7.0 (Nougat), upgradable to Android 8.0 (Oreo)

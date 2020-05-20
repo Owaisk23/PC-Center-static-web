@@ -1,0 +1,9 @@
+Title : Intel Pentium G4400 Dual-Core 3.3GHz Processor Intel HD Graphics
+
+Des : 14nm Skylake 54W
+      3MB L3 Cache
+      2 x 256KB L2 Cache
+      Intel HD Graphics 510
+
+
+Price :  6,900

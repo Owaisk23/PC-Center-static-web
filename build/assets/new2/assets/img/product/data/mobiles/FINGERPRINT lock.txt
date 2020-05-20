@@ -1,0 +1,9 @@
+fingerprint description
+price:Rs. 64,999
+Brand Warranty
+Brand Warranty (Smartlink)
+5.99"IPS LCD capacitive touchscreen, 2160 x 1080, 16M colors
+Qualcomm MSM8998 Snapdragon 835,Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)
+6GB RAM. 64GB ROM
+12 MP Back Camera, 5 MP Front
+Android 7.1 (Nougat)

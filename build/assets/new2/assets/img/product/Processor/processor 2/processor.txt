@@ -1,0 +1,9 @@
+Title : Intel Core i3-8100 Processor, Coffee Lake, 8th Gen
+
+Des : 4 Cores / 4 Threads
+      Processor Base Frequency 3.60 GHz / Cache 6 MB
+      65 W / DDR4-2400
+      Intel® UHD Graphics 630
+
+
+Price :  19,900

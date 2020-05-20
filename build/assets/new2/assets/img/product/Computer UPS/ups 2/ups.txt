@@ -1,0 +1,7 @@
+Title : DELL UPS 500-WATT (750VA)
+
+Des : UPS Technology: Line Interactive
+      Input Voltage: AC 220/230/240
+      Power Provided: 500 Watts
+	
+Price : 24,999

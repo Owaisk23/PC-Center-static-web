@@ -1,0 +1,13 @@
+Title : HP PAVILION 15-CC120TX 8TH GEN CORE-I5 8GB 1TB 940MX 4GB NVIDIA 15.6" FHD 
+
+Des: HP Pavilion - 15-cc120tx
+     Intel® Core™ i5-8250U (1.6 GHz base frequency, up to 3.4 GHz with Intel® Turbo Boost Technology, 6 MB cache, 4 cores)
+     8 GB DDR4-2400 SDRAM (1 x 8 GB)
+     1 TB 5400 rpm SATA
+     DVD-Writer
+
+
+
+
+
+Price : 88500

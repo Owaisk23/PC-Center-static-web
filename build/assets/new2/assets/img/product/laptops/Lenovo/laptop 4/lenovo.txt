@@ -1,0 +1,10 @@
+Title : LENOVO IP-320 CORE I7-7500U 7TH GEN 8GB DDR4 1TB 15.6"FHD
+
+Des: Processor
+     Up to 7th Generation Intel® Core™ i7-7500U Processor (2.70GHz 4MB)
+     Intel® Pentium® N4200 Processor (1.10GHz 2MB)
+     Intel® Celeron® N3450 Processor (1.10GHz 2MB)
+     Up to Intel® HD Graphics 620
+
+
+Price : 72500

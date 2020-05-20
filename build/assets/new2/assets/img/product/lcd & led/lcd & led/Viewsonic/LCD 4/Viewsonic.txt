@@ -1,0 +1,17 @@
+Title: ViewSonic VA2259-SH 22" Full HD LED
+
+Des: Type : 22” W (21.5” Viewable) AH-IPS Type
+
+Display Area : 476.064mm x 267.786mm
+
+Resolution : Full HD 1920 x 1080
+
+Brightness : 250 cd/m2 (Typ)
+
+Contrast Ratio : 1000:1 (Typ), 700:1 (Min)
+
+Dynamic Contrast Ratio : 50,000,000:1
+
+Viewing Angles : 178º / 178º (Typ)
+
+Price: 15500

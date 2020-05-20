@@ -1,0 +1,9 @@
+Title: Viewsonic VA1901-A 19-Inch LED
+
+Des: Display Area : 409.8mm (H) x 230.4mm (V)
+Resolution : WXGA 1366 x 768
+Brightness : 200 cd/m2
+Contrast Ratio : 600:1
+Dynamic Contrast Ratio : 50,000,000:
+
+Price: 10250

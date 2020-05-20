@@ -1,0 +1,14 @@
+Title: ViewSonic VX3209-2K 32'' QHD LCD
+
+Des: Type : 32" (16:9)
+Panel Technology : IPS Technology
+Display Area : 31.5" (698.112x392.688)
+Optimum Resolution : 2560x1440 (QHD)
+Brightness : 250 cd/m² (Typ.)
+Contrast Ratio : 1200 :1 (Typ.)
+Dynamic Contrast Ratio : 80,000,000 :1
+Viewing Angle : 178°(H) / 178° (V)
+Response Time : GTG:8ms(Typ.)
+
+
+Price: 45500

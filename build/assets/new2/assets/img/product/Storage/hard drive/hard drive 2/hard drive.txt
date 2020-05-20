@@ -1,0 +1,9 @@
+Title : Seagate BarraCuda ST1000DM010 1TB Hard Drive Bare Drive
+
+
+Des : Capacity 1TB 
+      Cache 64MB
+      Interface	SATA 6Gb/s
+ 
+
+Price : 6,100

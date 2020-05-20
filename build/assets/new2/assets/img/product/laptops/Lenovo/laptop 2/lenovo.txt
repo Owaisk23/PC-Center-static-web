@@ -1,0 +1,9 @@
+Title : LENOVO IDEAPAD 330 CI7-8550 4GB 1TB 15.6" LED DOS
+
+Des: Intel® Core™ i7-8550U Processor (8M Cache, up to 4.00 GHz) 
+     DOS
+     Intel Integrated Graphics(Offerings vary by configuration)
+     15.6” HD (1366 x 768)
+
+
+Price : 75500

@@ -1,0 +1,65 @@
+12 MP, f/1.7, dual pixel PDAF 5 MP, f/2.2, depth sensor , Autofocus, LED flash + 8 MP, f/2.2 LED flash
+Octa-core 2.2 GHz Cortex-A53
+Internal + RAM: 64 GB ROM, 4 GB RAM
+
+
+Specification:
+NETWORK	Technology
+GSM / HSPA / LTE
+2G bands	GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)
+3G bands	HSDPA 850 / 900 / 1900 / 2100 - Europe, Brazil, India
+4G bands	LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 38(2600) - Europe
+ 	LTE band 1(2100), 3(1800), 5(850), 7(2600), 28(700) - Brazil
+ 	LTE band 1(2100), 2(1900), 3(1800), 5(850), 7(2600), 8(900), 18(800), 19(800), 26(850), 28(700), 38(2600), 40(2300), 41(2500) - India
+Speed	HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps
+GPRS	Yes
+EDGE	Yes
+LAUNCH	Announced	2018, April
+Status	Available. Released 2018, May
+BODY	Dimensions	160 x 75.5 x 8 mm (6.30 x 2.97 x 0.31 in)
+Weight	167 g (5.89 oz)
+Build	Front/back glass, aluminum frame
+SIM	Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)
+ 	- Splash resistant
+DISPLAY	Type	IPS LCD capacitive touchscreen, 16M colors
+Size	5.9 inches, 89.8 cm2 (~74.4% screen-to-body ratio)
+Resolution	1080 x 2160 pixels, 18:9 ratio (~409 ppi density)
+Multitouch	Yes
+Protection	Corning Gorilla Glass 3
+PLATFORM	OS	Android 8.0 (Oreo), planned upgrade to Android 9.0 (Pie)
+Chipset	Qualcomm SDM630 Snapdragon 630
+CPU	Octa-core 2.2 GHz Cortex-A53
+GPU	Adreno 508
+MEMORY	Card slot	microSD, up to 256 GB
+Internal	64 GB, 4 GB RAM
+MAIN CAMERA	Dual	12 MP, f/1.7, dual pixel PDAF
+5 MP, f/2.2, depth sensor
+Features	Dual-LED dual-tone flash, panorama
+Video	2160p@30fps, 1080p@30/60fps
+SELFIE CAMERA	Single	8 MP, f/2.2
+Features	LED flash
+Video	1080p@30fps
+SOUND	Alert types	Vibration; MP3, WAV ringtones
+Loudspeaker	Yes
+3.5mm jack	Yes
+ 	- Active noise cancellation with dedicated mic
+- Dolby Audio
+COMMS	WLAN	Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot
+Bluetooth	5.0, A2DP, LE, EDR
+GPS	Yes, with A-GPS, GLONASS, GALILEO, BDS
+NFC	Yes
+Radio	FM radio
+USB	2.0, Type-C 1.0 reversible connector
+FEATURES	Sensors	Fingerprint (front-mounted), accelerometer, gyro, proximity, compass
+Messaging	SMS(threaded view), MMS, Email, Push Email, IM
+Browser	HTML5
+ 	- Fast battery charging 15W
+- MP3/AAC+/WAV/Flac player
+- MP4/H.264 player
+- Photo/video editor
+- Document viewer
+BATTERY	Non-removable Li-Ion 3200 mAh battery
+MISC	Colors	Deep Indigo
+Specifications of Moto G6 Plus - 5.9" - 4GB RAM - 64GB ROM - Fingerprint Sensor - Deep Indigo
+Brand Motorola SKU MO074EL1LJ1EENAFAMZ-5524440 Storage Capacity 64 GB Warranty Policy EN 1 Year Brand Warranty
+What’s in the box	1 x Phone1 x Charger1 x USB Cable1 x User Guide1 x Warranty Card

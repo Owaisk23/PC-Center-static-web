@@ -1,0 +1,12 @@
+Title: AOC 9E1H (with HDMI) 18.5-Inch LED
+
+Des: Screen size (diagonal) 18.5"W
+Visible size (diagonal) 470mm
+Screen aspect ratio 16:9
+Panel type TN
+Point distance 0.3(H)x0.3(V)mm
+Picture size 409.8(H)x230.4(V)mm
+Brightness (typical) 250 cd/m2
+Contrast (typical) 600:1 
+
+Price: 11800

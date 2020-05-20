@@ -1,0 +1,60 @@
+Specifications
+Connectivity
+Bluetooth® Technology 1
+Bluetooth Version 4.0 LE+EDR
+GPS and location services 2
+eCompass/Standalone GPS/aGPS (assisted)/AGPS (autonomous)/sGPS (simultaneous)
+Wi-Fi
+802.11 a/b/g/n
+Networks
+US Network: LTE, CDMA/1xEVDO Rev. A (800/1900 MHz)
+Global Network: EDGE/GSM (850/900/1800/1900), HSPA/UMTS( 850/900/1900/2100), HSDPA 42.2 Mbps (Category 20), HSUPA 5.76 Mbps LTE B13/4 700/1700
+Display
+Display
+HD 720p (720x1280 pixels)
+Interface
+Operating system
+Android™ 4.4 KitKat
+Physical
+Size
+71.2mm (x) x 137.5mm (y) x 8.5mm (z)
+Display size
+5 in.
+Weight
+167g
+Power
+Battery type
+3500 mAh, up to 48 hours of mixed usage Wireless inductive charging available
+Google Mobile Services
+Google Play™
+Gmail™
+Google Drive™
+Google Maps™ Navigation
+Google Calendar™
+Google Maps™
+Google Contact Sync™
+Google Play™ Music
+Google Chrome for Android
+Google Street View™
+Google Plus™
+Google + Hangout™
+Technology
+Architecture
+Motorola X8 Mobile Computing System, which is comprised of a Qualcomm Snapdragon S4Pro family processor (1.7GHz Dual-Core Krait CPU, 400 MHz quad-core Adreno 320 GPU), a natural language processor and a contextual computing processor.
+Memory 4
+2GB DDR RAM 32GB storage
+Accelerometer
+Ambient Light Sensor
+Barometer
+Gyroscope
+Magnetometer
+Near Field Communication (NFC)
+Proximity sensor
+Camera
+Rear-Facing Camera
+10MP CLEAR PIXEL (RGBC) – Quick Capture – LED flash – 1080p HD video (30 fps) – 4X digital zoom – Slow motion video – Burst mode – Auto HDR – Panorama – Tap to focus
+Front Camera
+2 MP
+Specifications of Motorola DROID Maxx (16GB, Black) Phone Only
+Brand Motorola SKU 100965887_PK-1246409118 Model XT1080
+What’s in the box	1 X XT1080 Phone

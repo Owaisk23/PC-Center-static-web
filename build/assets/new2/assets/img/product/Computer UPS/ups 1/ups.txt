@@ -1,0 +1,10 @@
+Title : INTEX 1500VA UPS
+
+Des : Build in 3 steps AVR with wide input range of input + / – 25%
+      Output short circuit protection
+      Overload protection
+      Overcharge protection
+      Sleek and compact design with CPU control
+
+
+Price : 16,999

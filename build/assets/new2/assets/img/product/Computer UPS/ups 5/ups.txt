@@ -1,0 +1,10 @@
+Title : Emerson Liebert Power System UPS
+
+
+Des : Provides AC overload Protection
+      Auto restart with AC recover
+      Compact size, lightweight
+      Fast Charging
+
+
+Price : 17,000

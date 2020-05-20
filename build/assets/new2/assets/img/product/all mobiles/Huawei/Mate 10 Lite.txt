@@ -1,0 +1,43 @@
+Dimensions
+156.2 x 75.2 x 7.5 mm
+Weight
+164g
+Battery
+(Non-removable Li-Ion ),3340 mAh
+OS
+Android 7.0 (Nougat)
+Memory
+64GB Built-in, 4GB RAM, MicroSD Card (support up to 256GB)
+Processor
+Octa-core (4 x 2.36 GHz Cortex-A53 + 4 x 1.7 GHz Cortex-A53), HiSilicon Kirin 659
+GPU: Mali-T830 MP2
+Connectivity
+MATE 10
+Wifi (Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot),
+Bluetooth (4.2, A2DP, LE, aptX), USB (microUSB 2.0),
+GPRS, EDGE, A-GPS, GLONASS, BDS
+Display Size
+5.9 inches, 1080 x 2160 pixels, 18:9 Screen ratio (~409 ppi density)
+Sensors:
+Fingerprint (rear-mounted), Accelerometer, Proximity, Compass
+Display Colour
+IPS LCD capacitive touchscreen, 16M colors, Multitouch
+Operating Frequency / Band
+SIM1: GSM 850 / 900 / 1800 / 1900
+SIM2: GSM 850 / 900 / 1800 / 1900
+3G Band HSDPA 850 / 900 / 2100
+4G Band LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 28(700), 38(2600), 40(2300), 41(2500)
+Browser
+HTML5
+Colors
+Graphite Black, Prestige Gold, Aurora Blue
+Entertainment
+Active noise cancellation with dedicated mic, 3.5mm audio jack, MP4/H.264 player, MP3/eAAC+/WAV/Flac player, Speakerphone
+Camera
+Dual 16 MP + 2 MP, phase detection autofocus, LED flash, Geo-tagging, touch focus, face/smile detection, panorama, HDR, Video (1080p@30fps), Secondary ndry Dual 13 MP, f/2.0 + 2 MP
+Other Features
+Document editor, Photo/video editor
+Ring Tones
+Vibration; MP3, WAV ringtones
+Messaging
+SMS (threaded view), MMS, Email, Push Email

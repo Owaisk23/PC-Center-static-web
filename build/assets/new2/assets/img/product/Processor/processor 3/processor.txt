@@ -1,0 +1,9 @@
+Title : Intel Core i5-8600K Processor, Coffee Lake, 8th Gen
+
+Des : 6 Cores / 6 Threads
+      3.6 GHz (4.3 GHz Turbo) / Cache 9 MB
+      95 W / DDR4-2666
+      Intel® UHD Graphics 630
+
+
+Price :  39,900

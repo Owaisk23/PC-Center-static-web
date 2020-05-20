@@ -1,0 +1,11 @@
+Title : HP 15-DA0001TU, I5-8250U, 4GB, 1TB, 15.6" LED HD
+
+Des: Intel® Core™ i5-8250U (1.6 GHz base frequency, up to 3.4 GHz with Intel® Turbo Boost Technology, 6 MB cache, 4 cores)
+     4 GB DDR4-2400 SDRAM (1 x 4 GB)
+     Intel® UHD Graphics 620
+     DVD-Writer
+     Full-size island-style keyboard with numeric keypad
+
+
+
+Price : 73000

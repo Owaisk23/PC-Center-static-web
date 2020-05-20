@@ -1,0 +1,14 @@
+Title : DELL LATITUDE E5580 CORE I7-7600U 7TH GEN 8GB DDR4 1TB HDD 15.6" FHD LCD
+
+Des: Core i7-7600U 7th Gen
+     CPU Type Core i7
+     Generation 7
+     8 GB DDR4 SDRAM (1 x 8GB)
+     1TB (5400 Rpm) HDD
+
+
+
+
+
+
+Price : 141000

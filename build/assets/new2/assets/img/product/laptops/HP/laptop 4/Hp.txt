@@ -1,0 +1,13 @@
+Title : HP PAVILION 15-CC178CL CORE-I7 8TH GEN 8GB 2TB 4GB GC 15.6" FHD
+
+Des: HP Pavilion - 15-cc178cl
+     Intel® Core™ i7-8550U (1.8 GHz base frequency, up to 4 GHz with Intel® Turbo Boost Technology, 8 MB cache, 4 cores)
+     8 GB DDR4-2133 SDRAM (1 x 8 GB)
+     NVIDIA® GeForce® 940MX (4 GB DDR3 dedicated)
+     2 TB 5400 rpm SATA
+
+
+
+
+
+Price : 95500
