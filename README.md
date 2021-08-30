@@ -2,4 +2,4 @@
 A webpage same as Daraz or any other marketing website.
 
 ## PREVIEW-Webpage
-* [PC CENTRE](https://pc-centre.firebaseapp.com/index.html)
+* [PC CENTRE](http://pccentre-by-owais.surge.sh/index.html)
